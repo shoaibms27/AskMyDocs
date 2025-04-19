@@ -2,6 +2,6 @@ streamlit
 python-dotenv
 langchain
 langchain-community
-together
 faiss-cpu
+together
 huggingface-hub
